@@ -1,0 +1,3 @@
+.env
+reddit_api_output.json
+__pycache__/
