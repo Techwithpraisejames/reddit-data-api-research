@@ -24,15 +24,13 @@ python reddit_api_test.py
 
 ## Recorded results
 
-- [`results/public_methods.txt`](results/public_methods.txt): Raw terminal output for the RSS, unauthenticated JSON, and Old Reddit checks against r/SQL (October 21, 2026).
+- [`results/public_methods.txt`](results/public_methods.txt): Raw terminal output from October 21, 2026, for RSS, unauthenticated JSON, and Old Reddit checks against r/Python.
 
-To reproduce this run, set `SUBREDDIT = "SQL"` in `reddit_public_methods_test.py`, then execute:
+To reproduce the test with the script's default `SUBREDDIT = "Python"` setting:
 
 ```bash
 python reddit_public_methods_test.py
 ```
-
-The script currently defaults to `SUBREDDIT = "Python"`; change it to `SQL` to target the subreddit used in the saved output.
 
 ## Notes
 
