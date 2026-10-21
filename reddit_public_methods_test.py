@@ -53,10 +53,12 @@ for method, url in URLS.items():
         print("HTTP status:", response.status_code)
         print("Content type:", response.headers.get("Content-Type"))
         if response.status_code != 200:
-            print("Extracted posts: 0 (request unsuccessful)")
+            print("Useful post data: No")
+            print("Reason:", f"HTTP {response.status_code}")
             continue
         posts = CHECKS[method](response)
-        print("Extracted posts:", len(posts))
+        print("Useful post data:", "Yes" if posts else "No")
+        print("Posts found:", len(posts))
         for title, link in posts[:3]:
             print(f"- {title} | {link}")
         if not posts:
