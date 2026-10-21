@@ -1,3 +1,6 @@
 .env
-reddit_api_output.json
 __pycache__/
+reddit_post.md
+reddit_listing.md
+reddit_extracted.json
+reddit_migration.html
