@@ -1,0 +1,26 @@
+--- RSS ---
+HTTP status: 200
+Content type: application/atom+xml; charset=UTF-8
+Useful post data: Yes
+Posts found: 25
+Title: COUNT() vs COUNT() OVER()
+URL: https://www.reddit.com/r/SQL/comments/1xb6v2k/count_vs_count_over/
+
+Title: I can write SQL queries, but how do I learn to interpret the results and develop business judgment?
+URL: https://www.reddit.com/r/SQL/comments/1xb0qki/i_can_write_sql_queries_but_how_do_i_learn_to/
+
+Title: What do you do to check data quality?
+URL: https://www.reddit.com/r/SQL/comments/1xb69nh/what_do_you_do_to_check_data_quality/
+
+
+--- JSON ---
+HTTP status: 403
+Content type: text/html
+Useful post data: No
+Reason: HTTP 403
+
+--- Old Reddit ---
+HTTP status: 403
+Content type: text/html
+Useful post data: No
+Reason: HTTP 403
