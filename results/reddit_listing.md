@@ -40,115 +40,15 @@ r/Python
 
 ### कम्यूनिटी हाइलाइट
 
-[**Showcase Thread**  
-![AutoModerator](https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1) वोट्स • टिप्पणियाँ](http://www.reddit.com/r/Python/comments/1wxjay5/showcase_thread/)
+<!-- Redacted research output: account names, profile media, user-written post excerpts, and other identifying details have been removed. -->
 
-[**Tuesday Daily Thread: Advanced questions**  
-![AutoModerator](https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1) वोट्स • टिप्पणी](http://www.reddit.com/r/Python/comments/1xad7jf/tuesday_daily_thread_advanced_questions/)
+### कम्यूनिटी हाइलाइट और पोस्ट
 
-[**Thursday Daily Thread: Python Careers, Courses, and Furthering Education!**  
-![AutoModerator](https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1) वोट्स • टिप्पणियाँ](http://www.reddit.com/r/Python/comments/1r8jraw/thursday_daily_thread_python_careers_courses_and/)
+- [litellm 1.107.0 on PyPI is compromised](https://www.reddit.com/r/Python/comments/1xbnrhi/litellm_11070_on_pypi_is_compromised/)
+- [My Python magic is gone](https://www.reddit.com/r/Python/comments/1wwv97o/my_python_magic_is_gone/)
+- [How much time to wait before adopting a new Python version ?](https://www.reddit.com/r/Python/comments/1xbfbte/how_much_time_to_wait_before_adopting_a_new/)
 
-* * *
-
-[litellm 1.107.0 on PyPI is compromised](https://www.reddit.com/r/Python/comments/1xbnrhi/litellm_11070_on_pypi_is_compromised/)
-
-[![u/BattleRemote3157 अवतार](https://styles.redditmedia.com/t5_8ruq2t/styles/profileIcon_8i8eurypwfvg1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=a4bb1b09687b32b331d1e251a6fe9cfe89c7f5cd)](https://www.reddit.com/user/BattleRemote3157/)
-
-- [u/BattleRemote3157](https://www.reddit.com/user/BattleRemote3157/)
-  
-  •
-- 41 मि
-
-[litellm 1.107.0 on PyPI is compromised](https://www.reddit.com/r/Python/comments/1xbnrhi/litellm_11070_on_pypi_is_compromised/)
-
-[News](http://www.reddit.com/r/Python/?f=flair_name%3A%22News%22)
-
-[the payloads run on every python start on the machine and not just when you import litellm. Your IDE, pip, CI jobs everything python on that host is affected.  
-\
-It steals ssh keys, aws credentials, browser passwords, shell history and AI coding tool configs. The backdoor runs as a daemon and executes whatever code the attacker’s server returns every hour.  
-\
-Pin to 1.106.2.  
-\
-complete breakdown: safedep.io/litellm-pypi-compromise-credential-stealer-backdoor](http://www.reddit.com/r/Python/comments/1xbnrhi/litellm_11070_on_pypi_is_compromised/)
-
-* * *
-
-विज्ञापन: We built an open source LLM engineering framework—emphasis on "engineering"
-
-[![u/CometML अवतार](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png) u/CometML](http://www.reddit.com/user/CometML/)
-
-• [विज्ञापन](http://www.reddit.com/user/CometML/)
-
-We built an open source LLM engineering framework—emphasis on "engineering"
-
-![](https://external-preview.redd.it/puhVQaDzdtlwHDFwjbqz8TqhQkhfq51W5yfwfYe_cUs.jpg?width=640&crop=smart&auto=webp&s=4982d01081fd1878d9341afc338d352d5d49feb3) ![We built an open source LLM engineering framework—emphasis on "engineering"](https://external-preview.redd.it/puhVQaDzdtlwHDFwjbqz8TqhQkhfq51W5yfwfYe_cUs.jpg?width=640&crop=smart&auto=webp&s=4982d01081fd1878d9341afc338d352d5d49feb3)
-
-* * *
-
-github.com
-
-* * *
-
-[My Python magic is gone](https://www.reddit.com/r/Python/comments/1wwv97o/my_python_magic_is_gone/)
-
-[![u/RedYad2 अवतार](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_0.png)](https://www.reddit.com/user/RedYad2/)
-
-- [u/RedYad2](https://www.reddit.com/user/RedYad2/)
-  
-  •
-- 18 दि
-
-[My Python magic is gone](https://www.reddit.com/r/Python/comments/1wwv97o/my_python_magic_is_gone/)
-
-[Discussion](http://www.reddit.com/r/Python/?f=flair_name%3A%22Discussion%22)
-
-[I've been coding for a long time, and I've been developing with Python for years.  
-\
-I loved coding, always loved it. I started many years ago because I wanted to quickly create scripts for security hacking tools, but since then, I've moved to Claude Code, and building cross-language has been a much better experience for me than using Python.  
-\
-I built my own SaaS application out there whose backend and network core are completely built with Python, and I'm rewriting all of that without writing a single line of code. And most of the time, Python is not the most optimized language.  
-\
-And now... I feel like the magic is gone.  
-\
-I don't even know why I'm writing this. I just feel sad about it.](http://www.reddit.com/r/Python/comments/1wwv97o/my_python_magic_is_gone/)
-
-* * *
-
-[How much time to wait before adopting a new Python version ?](https://www.reddit.com/r/Python/comments/1xbfbte/how_much_time_to_wait_before_adopting_a_new/)
-
-[](https://www.reddit.com/user/tomatus89/)
-
-- [u/tomatus89](https://www.reddit.com/user/tomatus89/)
-  
-  •
-- 8 घं
-
-[How much time to wait before adopting a new Python version ?](https://www.reddit.com/r/Python/comments/1xbfbte/how_much_time_to_wait_before_adopting_a_new/)
-
-[Discussion](http://www.reddit.com/r/Python/?f=flair_name%3A%22Discussion%22)
-
-[I tried to start using 3.15, but a lot of libraries don't have packages that support it yet.  
-\
-In your own experience, what's a good amount of time to wait where most of the libraries support the new version? 1 month, 3 months, 6 months?](http://www.reddit.com/r/Python/comments/1xbfbte/how_much_time_to_wait_before_adopting_a_new/)
-
-* * *
-
-![pythonLogo](https://emoji.redditmedia.com/8yxdpg6xxnr71_t5_2qh0y/pythonLogo)
-
-![pythonLogo](https://emoji.redditmedia.com/8yxdpg6xxnr71_t5_2qh0y/pythonLogo)
-
-[Pycon US 2025](https://us.pycon.org/2025/) starts next week!
-
-25 जन॰ 2008 को बनाया गया
-
-पब्लिक
-
-कोई भी व्यक्ति इस कम्यूनिटी को देख सकता है, पोस्ट कर सकता है और टिप्पणी कर सकता है
-
-1.1 लाख 605
-
-* * *
+[Account details and user-generated post excerpts redacted]
 
 ## कम्यूनिटी के बुकमार्क
 
