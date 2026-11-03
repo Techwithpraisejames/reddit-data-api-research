@@ -2,7 +2,7 @@
 
 This repository contains the Python scripts and saved results for **How to Scrape Reddit Data After the RSS and API Shutdown**, a Zenrows article examining how Reddit's public retrieval methods behave and demonstrating how to retrieve publicly accessible Reddit pages with Zenrows Fetch and Extract.
 
-Tests were conducted on **October 21, 2026**, using the **r/Python** subreddit. The repository preserves the resulting files so readers can inspect the retrieved content and reproduce the requests.
+Tests were conducted on **October 21, 2026**, using the **r/Python** subreddit. The repository preserves privacy-redacted results so readers can inspect the output structure and reproduce the requests.
 
 ## Features
 
@@ -11,7 +11,7 @@ Tests were conducted on **October 21, 2026**, using the **r/Python** subreddit. 
 - Retrieves a subreddit listing and an individual discussion with Zenrows Fetch using `mode=auto`.
 - Saves Fetch responses as Markdown.
 - Uses Zenrows Extract with `extract=auto` to retrieve structured information about a discussion, its comments, and the subreddit.
-- Includes the original test outputs for inspection.
+- Includes privacy-redacted versions of the captured test outputs for inspection.
 
 ## Prerequisites
 
@@ -143,6 +143,10 @@ python zenrows_extract.py
 The script requests the same discussion using `mode=auto` and `extract=auto`. It saves the `parsed` response as `reddit_extracted.json` in your current working directory.
 
 The [saved JSON output](results/reddit_extracted.json) contains three top-level fields: `comments`, `post`, and `subreddit`. It contains **nine comment records**, while the post metadata reports **11 comments**. Some comment depth and parent fields are missing or inconsistent, so do not treat the output as a complete or fully reconstructed comment tree.
+
+## Privacy and redaction
+
+The published `results/reddit_post.md`, `results/reddit_listing.md`, and `results/reddit_extracted.json` redact usernames, profile links and images, user-written comments, comment permalinks, and other identifying details. Test statuses, record counts, response structure, and non-identifying metadata remain for comparison. These are edited research artifacts, not byte-for-byte raw API responses. Re-running the scripts may generate fresh, unredacted output in your working directory; review it before sharing.
 
 ## Recorded outputs
 
