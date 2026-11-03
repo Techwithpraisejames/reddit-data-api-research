@@ -16,7 +16,7 @@ Go to Python](https://www.reddit.com/r/Python/)
 
 • 25d ago
 
-[AutoModerator](https://www.reddit.com/user/AutoModerator/)
+[REDACTED ACCOUNT]
 
 # Sunday Daily Thread: What's everyone working on this week?
 
@@ -67,115 +67,45 @@ Q&amp;A
 
 # Comments Section
 
-[![u/Maleficent-Sale-611 avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png)](https://www.reddit.com/user/Maleficent-Sale-611/)
+> Privacy note: This published test output has been redacted. The original request contained user comments, account details, profile links, and comment permalinks; those identifying details are omitted here.
 
-[Maleficent-Sale-611](https://www.reddit.com/user/Maleficent-Sale-611/)
+### Comment 1
 
-• [25d ago](https://www.reddit.com/r/Python/comments/1wr5g87/comment/pc9shfb/)
+[Username, profile details, comment permalink, and comment body redacted]
 
-messing with a script that pulls my dream journal entries and sorts them by recurring symbols, been finding some weird patterns in the color-coding
+### Comment 2
 
-[](https://www.reddit.com/user/pretzlchaotl_/)
+[Username, profile details, comment permalink, and comment body redacted]
 
-[pretzlchaotl\_](https://www.reddit.com/user/pretzlchaotl_/)
+### Comment 3
 
-• [24d ago](https://www.reddit.com/r/Python/comments/1wr5g87/comment/pcd1rya/)
+[Username, profile details, comment permalink, and comment body redacted]
 
-Just finished polishing up a derivation of ABCMeta that incorporates (|, &amp;, -, &lt;, &gt;, &lt;=, &gt;=, in, not in ) operators/keywords, with versions of collections &amp; numbers classes, plus a few custom ones for use as mathematical domains. Planning to post to github and share here within a week.
+### Comment 4
 
-[![u/shiming1234 avatar](https://styles.redditmedia.com/t5_foszdh/styles/profileIcon_qryybg9v36th1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=b5cf30ca5b8aee54c0fc2a049c7bef3ec48f82ec)](https://www.reddit.com/user/shiming1234/)
+[Username, profile details, comment permalink, and comment body redacted]
 
-[shiming1234](https://www.reddit.com/user/shiming1234/)
+### Comment 5
 
-• [24d ago](https://www.reddit.com/r/Python/comments/1wr5g87/comment/pcawhe2/)
+[Username, profile details, comment permalink, and comment body redacted]
 
-This is a dream that starts to come
+### Comment 6
 
-[![u/tenkei_01 avatar](https://styles.redditmedia.com/t5_jd3fyx/styles/profileIcon_rfz1e8lut6nh1.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=d98edcea3e72179625f8f34a3adfcf4db504224c)](https://www.reddit.com/user/tenkei_01/)
+[Username, profile details, comment permalink, and comment body redacted]
 
-[tenkei\_01](https://www.reddit.com/user/tenkei_01/)
+### Comment 7
 
-• [24d ago](https://www.reddit.com/r/Python/comments/1wr5g87/comment/pcb90kk/)
+[Username, profile details, comment permalink, and comment body redacted]
 
-I started to design a bench suite to prove:
+### Comment 8
 
-> Jev is fast but not necessary as accurate as frontier models
+[Username, profile details, comment permalink, and comment body redacted]
 
-I designed one experiment for each task type (Choice, Noul, Score), and ran it against various models (OpenAI, Anthropic, Open wieghts, etc.), here the link to results:
+### Comment 9
 
-[https://github.com/Tenkei/jev-decision-bench/tree/main/results](https://github.com/Tenkei/jev-decision-bench/tree/main/results)
+[Username, profile details, comment permalink, and comment body redacted]
 
-Here my take:
-
-- Frontier models performed better on raw accuracy for the Choice and Noul workloads.
-- JEV was materially faster in all three current comparisons.
-- JEV slightly led the on the ordered Score task.
-
-And one surprising discovery:
-
-- Accuracy, and speed hides an important part of the operational picture: structured-output reliability and internal consistency.
-
-[](https://www.reddit.com/user/pvkooten/)
-
-[pvkooten](https://www.reddit.com/user/pvkooten/)
-
-• [24d ago](https://www.reddit.com/r/Python/comments/1wr5g87/comment/pcehngl/)
-
-Interesting research but pls use opus 5.5 already...
-
-[More replies](http://www.reddit.com/r/Python/comments/1wr5g87/comment/pcb90kk/?force-legacy-sct=1)
-
-[![u/SynapticAISystems avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_3.png)](https://www.reddit.com/user/SynapticAISystems/)
-
-[SynapticAISystems](https://www.reddit.com/user/SynapticAISystems/)
-
-• [24d ago](https://www.reddit.com/r/Python/comments/1wr5g87/comment/pcgva2h/)
-
-Hey everyone,
-
-I've been working on Melder my IoC system for free threaded python. It's a lot of fun.
-
-Check it out. It's also not a hobby project its a serious multiyear project. It holds it down against the best in class competitors against it.
-
-[https://github.com/Synaptic724/melder](https://github.com/Synaptic724/melder)
-
-[https://melder.readthedocs.io/en/latest/](https://melder.readthedocs.io/en/latest/)
-
-If anyone is interested please take a look at the beginner guide in the readthedocs site! Youtube videos are coming soon.
-
-Thank you!
-
-Reply Share
-
-[](https://www.reddit.com/user/IndicationTypical972/)
-
-[IndicationTypical972](https://www.reddit.com/user/IndicationTypical972/)
-
-• [21d ago](https://www.reddit.com/r/Python/comments/1wr5g87/comment/pd2mcwn/)
-
-i've been messing around with a small Python project lately . nothing too craazy but im learning a lot while building it ...
-
-Reply Share
-
-[![u/OlenaDoubleChecks avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png)](https://www.reddit.com/user/OlenaDoubleChecks/)
-
-[OlenaDoubleChecks](https://www.reddit.com/user/OlenaDoubleChecks/)
-
-• [20d ago](https://www.reddit.com/r/Python/comments/1wr5g87/comment/pd4t3y0/)
-
-Cleaning a pile of mislabeled training data for a churn model, nothing glamorous. Spent more time fixing broken timestamps than actually modeling anything this week.
-
-Reply Share
-
-[](https://www.reddit.com/user/Prestigious-Sea2971/)
-
-[Prestigious-Sea2971](https://www.reddit.com/user/Prestigious-Sea2971/)
-
-• [1d ago](https://www.reddit.com/r/Python/comments/1wr5g87/comment/phvnbd3/)
-
-I'm rewriting an old CSV cleanup script with pandas and pytest, and I’m finding most of the bugs came from the date parsing I thought was fine.
-
-Reply Share
+[More replies expansion link present in original response; comment-specific URL redacted]
 
 ![pythonLogo](https://emoji.redditmedia.com/8yxdpg6xxnr71_t5_2qh0y/pythonLogo)
 
