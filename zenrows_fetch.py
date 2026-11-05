@@ -12,12 +12,12 @@ urls = {
 
 for name, url in urls.items():
     params = {
-        "url": url,
-        "apikey": API_KEY,
-        "mode": "auto",
-        "proxy_country": "us",
-        "response_type": "markdown",
-    }
+    "url": url,
+    "apikey": API_KEY,
+    "mode": "auto",
+    "proxy_country": "us",
+    "response_type": "markdown",
+}
 
     response = requests.get(
         "https://api.zenrows.com/v1/",
