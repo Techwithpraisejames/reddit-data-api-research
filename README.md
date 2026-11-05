@@ -173,5 +173,5 @@ This repository documents small, read-only tests. It does not provide Reddit OAu
 
 ## Related article
 
-**[How to Scrape Reddit Data After the RSS and API Shutdown](https://www.zenrows.com/blog/how-to-scrape-reddit-data-after-rss-and-api-shutdown)**
+**[How to Scrape Reddit Data After the RSS and API Shutdown](https://www.zenrows.com/blog/how-to-scrape-reddit-data⁠)**
 
