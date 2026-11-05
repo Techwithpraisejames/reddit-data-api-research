@@ -15,6 +15,7 @@ for name, url in urls.items():
         "url": url,
         "apikey": API_KEY,
         "mode": "auto",
+        "proxy_country": "us",
         "response_type": "markdown",
     }
 
