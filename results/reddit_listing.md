@@ -1,6 +1,6 @@
 # r/Python — Zenrows Fetch listing (English, privacy-redacted)
 
-> Captured with `mode=auto`, `proxy_country=us`, and `response_type=markdown` on November 5, 2026. This file preserves selected non-identifying page content from the retrieved response. Usernames, profile URLs, avatars, user-generated post excerpts, and advertisements were removed for privacy. It is not an unmodified API response.
+> This file preserves selected non-identifying page content from the retrieved response. Usernames, profile URLs, avatars, user-generated post excerpts, and advertisements were removed for privacy. It is not an unmodified API response.
 
 ## Page navigation
 
