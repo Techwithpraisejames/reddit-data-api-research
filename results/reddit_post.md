@@ -12,15 +12,11 @@ Expand user menu Open settings menu
 \
 Go to Python](https://www.reddit.com/r/Python/)
 
-[r/Python](https://www.reddit.com/r/Python/)
-
-• 25d ago
+[r/Python](https://www.reddit.com/r/Python/) • 1mo ago
 
 [REDACTED ACCOUNT]
 
 # Sunday Daily Thread: What's everyone working on this week?
-
-[Daily Thread](http://www.reddit.com/r/Python/?f=flair_name%3A%22%3ApythonLogo%3A%20Daily%20Thread%22)
 
 # Weekly Thread: What's Everyone Working On This Week? 🛠️
 
@@ -45,71 +41,13 @@ Hello [r/Python](http://www.reddit.com/r/Python/)! It's time to share what you'v
 
 Let's build and grow together! Share your journey and learn from others. Happy coding! 🌟
 
+Read more
+
 Share
 
-Sort by:
+![](https://emoji.redditmedia.com/8yxdpg6xxnr71_t5_2qh0y/pythonLogo)
 
-Best
-
-Open comment sort options
-
-Best
-
-Top
-
-New
-
-Controversial
-
-Old
-
-Q&amp;A
-
-# Comments Section
-
-> Privacy note: This published test output has been redacted. The original request contained user comments, account details, profile links, and comment permalinks; those identifying details are omitted here.
-
-### Comment 1
-
-[Username, profile details, comment permalink, and comment body redacted]
-
-### Comment 2
-
-[Username, profile details, comment permalink, and comment body redacted]
-
-### Comment 3
-
-[Username, profile details, comment permalink, and comment body redacted]
-
-### Comment 4
-
-[Username, profile details, comment permalink, and comment body redacted]
-
-### Comment 5
-
-[Username, profile details, comment permalink, and comment body redacted]
-
-### Comment 6
-
-[Username, profile details, comment permalink, and comment body redacted]
-
-### Comment 7
-
-[Username, profile details, comment permalink, and comment body redacted]
-
-### Comment 8
-
-[Username, profile details, comment permalink, and comment body redacted]
-
-### Comment 9
-
-[Username, profile details, comment permalink, and comment body redacted]
-
-[More replies expansion link present in original response; comment-specific URL redacted]
-
-![pythonLogo](https://emoji.redditmedia.com/8yxdpg6xxnr71_t5_2qh0y/pythonLogo)
-
-![pythonLogo](https://emoji.redditmedia.com/8yxdpg6xxnr71_t5_2qh0y/pythonLogo)
+![](https://emoji.redditmedia.com/8yxdpg6xxnr71_t5_2qh0y/pythonLogo)
 
 [Pycon US 2025](https://us.pycon.org/2025/) starts next week!
 
@@ -129,6 +67,7 @@ Anyone can view, post, and comment to this community
 - [Reddit Rules](https://www.redditinc.com/policies/content-policy)
 - [Privacy Policy](https://www.reddit.com/policies/privacy-policy)
 - [User Agreement](https://www.redditinc.com/policies/user-agreement)
+- [Your Privacy Choices](https://support.reddithelp.com/hc/articles/43980704794004)
 - [Accessibility](https://support.reddithelp.com/hc/sections/38303584022676-Accessibility)
 - [Reddit, Inc. © 2026. All rights reserved.](https://redditinc.com)
 
@@ -136,8 +75,54 @@ Anyone can view, post, and comment to this community
 
 Join the most real place on the internet
 
+Continue with Phone Number
+
 Continue with Email
 
 By continuing, you agree to our [User Agreement](https://www.redditinc.com/policies/user-agreement) and acknowledge that you understand the [Privacy Policy](https://www.redditinc.com/policies/privacy-policy).
 
 ![](https://id.rlcdn.com/472486.gif)
+
+* * *
+
+# Comments Section
+
+> Privacy-redacted version of the November 5, 2026 Fetch response using `proxy_country=us`. Usernames, profile URLs, user avatars, comment text, and comment permalinks have been omitted. The original response included a link to continue a nested comment thread, so the saved page does not establish complete comment retrieval.
+
+### Comment 1
+
+[Username, account details, comment body, and permalink redacted]
+
+### Comment 2
+
+[Username, account details, comment body, and permalink redacted]
+
+### Comment 3
+
+[Username, account details, comment body, and permalink redacted]
+
+### Comment 4
+
+[Username, account details, comment body, and permalink redacted]
+
+### Comment 5
+
+[Username, account details, comment body, and permalink redacted]
+
+### Comment 6
+
+[Username, account details, comment body, and permalink redacted]
+
+### Comment 7
+
+[Username, account details, comment body, and permalink redacted]
+
+### Comment 8
+
+[Username, account details, comment body, and permalink redacted]
+
+### Comment 9
+
+[Username, account details, comment body, and permalink redacted]
+
+[Continue this thread link present in original response; URL redacted]
