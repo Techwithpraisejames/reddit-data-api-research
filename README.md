@@ -2,13 +2,13 @@
 
 This repository contains the Python scripts and saved results for **How to Scrape Reddit Data After the RSS and API Shutdown**, a Zenrows article examining how Reddit's public retrieval methods behave and demonstrating how to retrieve publicly accessible Reddit pages with Zenrows Fetch and Extract.
 
-Tests were conducted on **October 21, 2026**, using the **r/Python** subreddit. The repository preserves privacy-redacted results so readers can inspect the output structure and reproduce the requests.
+The public-method and Extract tests were conducted on **October 21, 2026**, using the **r/Python** subreddit. The Fetch Markdown outputs were rerun on **November 5, 2026**, with `proxy_country=us` and are shown in English. The repository preserves privacy-redacted results so readers can inspect the output structure and reproduce the requests.
 
 ## Features
 
 - Tests subreddit RSS, unauthenticated `.json`, and Old Reddit requests.
 - Records HTTP status codes, content types, and the number of posts extracted from public-method responses.
-- Retrieves a subreddit listing and an individual discussion with Zenrows Fetch using `mode=auto`.
+- Retrieves a subreddit listing and an individual discussion with Zenrows Fetch using `mode=auto` and `proxy_country=us`.
 - Saves Fetch responses as Markdown.
 - Uses Zenrows Extract with `extract=auto` to retrieve structured information about a discussion, its comments, and the subreddit.
 - Includes privacy-redacted versions of the captured test outputs for inspection.
@@ -123,6 +123,7 @@ python zenrows_fetch.py
 The script requests an [r/Python Sunday Daily Thread](https://www.reddit.com/r/Python/comments/1wr5g87/sunday_daily_thread_whats_everyone_working_on/) and the [r/Python subreddit listing](https://www.reddit.com/r/Python/), using:
 
 - `mode=auto` for automatic retrieval configuration.
+- `proxy_country=us` to request through a US proxy; the saved November 5 rerun returned English interface labels.
 - `response_type=markdown` to return Markdown.
 
 It writes `reddit_post.md` and `reddit_listing.md` to your current working directory.
@@ -132,7 +133,7 @@ It writes `reddit_post.md` and `reddit_listing.md` to your current working direc
 - [Discussion Markdown](results/reddit_post.md), including the post and visible comments.
 - [Subreddit listing Markdown](results/reddit_listing.md), including post links and other page content.
 
-The discussion output includes a **More replies** link, so it does not establish that every nested reply was retrieved. The subreddit listing also includes navigation, advertisements, and some interface text in Hindi.
+The new discussion output included a **Continue this thread** link, so it does not establish that every nested reply was retrieved. The new listing returned English navigation labels, including **Community highlights** and **votes • comments**. The published result files omit personal details, advertisements, and user-generated excerpts.
 
 ### 3. Extract structured Reddit data
 
@@ -146,7 +147,7 @@ The [saved JSON output](results/reddit_extracted.json) contains three top-level 
 
 ## Privacy and redaction
 
-The published `results/reddit_post.md`, `results/reddit_listing.md`, and `results/reddit_extracted.json` redact usernames, profile links and images, user-written comments, comment permalinks, and other identifying details. Test statuses, record counts, response structure, and non-identifying metadata remain for comparison. These are edited research artifacts, not byte-for-byte raw API responses. Re-running the scripts may generate fresh, unredacted output in your working directory; review it before sharing.
+The published `results/reddit_post.md`, `results/reddit_listing.md`, and `results/reddit_extracted.json` redact usernames, profile links and images, user-written comments, comment permalinks, and other identifying details. The Fetch Markdown files retain selected excerpts and structural cues rather than complete page captures. Test statuses, record counts, response structure, and non-identifying metadata remain for comparison. These are edited research artifacts, not byte-for-byte raw API responses. Re-running the scripts may generate fresh, unredacted output in your working directory; review it before sharing.
 
 ## Recorded outputs
 
@@ -157,7 +158,7 @@ The published `results/reddit_post.md`, `results/reddit_listing.md`, and `result
 | [`results/reddit_listing.md`](results/reddit_listing.md) | Zenrows Fetch output for the subreddit listing |
 | [`results/reddit_extracted.json`](results/reddit_extracted.json) | Zenrows Extract structured data |
 
-These outputs document the October 21 test. Live Reddit pages and API responses may differ when you rerun the scripts.
+The public-method and Extract files document the October 21 test; the Fetch Markdown files document the November 5 English-language rerun. Live Reddit pages and API responses may differ when you rerun the scripts.
 
 ## Technologies
 
