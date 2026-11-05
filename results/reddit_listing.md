@@ -1,4 +1,4 @@
-# r/Python — Zenrows Fetch listing (English, privacy-redacted)
+# r/Python — Zenrows Fetch listing (privacy-redacted)
 
 > This file preserves selected non-identifying page content from the retrieved response. Usernames, profile URLs, avatars, user-generated post excerpts, and advertisements were removed for privacy. It is not an unmodified API response.
 
